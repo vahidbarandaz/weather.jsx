@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather.jsx/static/css/main.2a2bd0fe.css",
+    "main.js": "/weather.jsx/static/js/main.93aa63e5.js",
+    "static/media/nody-عکس-با-کیفیت-آسمان-1634134643.jpg": "/weather.jsx/static/media/nody-عکس-با-کیفیت-آسمان-1634134643.246286c1bc8bce5033d4.jpg",
+    "index.html": "/weather.jsx/index.html",
+    "main.2a2bd0fe.css.map": "/weather.jsx/static/css/main.2a2bd0fe.css.map",
+    "main.93aa63e5.js.map": "/weather.jsx/static/js/main.93aa63e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2bd0fe.css",
+    "static/js/main.93aa63e5.js"
+  ]
+}
